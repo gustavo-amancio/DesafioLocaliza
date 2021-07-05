@@ -1,0 +1,27 @@
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.deps.json
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.dll
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csprojAssemblyReference.cache
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csproj.CoreCompileInputs.cache
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfoInputs.cache
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfo.cs
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.dll
+J:\Documentos e Arquivos\Dropbox\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.deps.json
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csprojAssemblyReference.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.AssemblyInfo.cs
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\Classes_Projeto\obj\Debug\netstandard2.0\Classes_Projeto.pdb

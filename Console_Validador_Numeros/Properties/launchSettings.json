@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Console_Validador_Numeros": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

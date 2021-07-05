@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\bin\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\bin\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.runtimeconfig.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\bin\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.runtimeconfig.dev.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\bin\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\bin\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\obj\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\obj\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\obj\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\obj\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Console_Validador_Numeros\obj\Release\netcoreapp2.1\win-x64\Console_Validador_Numeros.pdb

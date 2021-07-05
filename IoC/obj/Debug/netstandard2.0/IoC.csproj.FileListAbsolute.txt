@@ -1,0 +1,28 @@
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\TemplateApplication.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\TemplateApplication.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.deps.json
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\IoC.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\TemplateApplication.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\TemplateApplication.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csprojAssemblyReference.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfo.cs
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.csproj.CopyComplete
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\IoC\obj\Debug\netstandard2.0\IoC.pdb

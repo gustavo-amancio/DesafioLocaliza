@@ -1,0 +1,24 @@
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\bin\Debug\netstandard2.0\Services.deps.json
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\bin\Debug\netstandard2.0\Services.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\bin\Debug\netstandard2.0\Services.pdb
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\bin\Debug\netstandard2.0\Classes_Projeto.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\Services\obj\Debug\netstandard2.0\Services.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\bin\Debug\netstandard2.0\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\bin\Debug\netstandard2.0\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\Services\obj\Debug\netstandard2.0\Services.pdb

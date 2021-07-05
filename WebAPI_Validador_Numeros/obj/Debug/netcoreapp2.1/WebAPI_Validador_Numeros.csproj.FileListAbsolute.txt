@@ -1,0 +1,76 @@
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.deps.json
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.json
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.dev.json
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Services.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.pdb
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Services.pdb
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csprojAssemblyReference.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CoreCompileInputs.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cs
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfoInputs.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfo.cs
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorTargetAssemblyInfo.cache
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CopyComplete
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+J:\Documentos e Arquivos\Dropbox\Teste Localiza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\WebAPI_Validador_Numeros.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.dev.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\Swagger.xml
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\IoC.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\TemplateApplication.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\IoC.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\netcoreapp2.1\TemplateApplication.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.deps.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.dev.json
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\IoC.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\TemplateApplication.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\IoC.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\TemplateApplication.pdb
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+C:\Users\Gustavo\Documents\Repositorios\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.deps.json
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.json
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.runtimeconfig.dev.json
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\IoC.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\TemplateApplication.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\Classes_Projeto.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\IoC.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\bin\Debug\netcoreapp2.1\TemplateApplication.pdb
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csprojAssemblyReference.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.AssemblyInfo.cs
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.csproj.CopyComplete
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.dll
+C:\Users\Gustavo\Downloads\ENTREGA PROJETO LOCALIZA\DesafioLocaliza\DesafioLocaliza\WebAPI_Validador_Numeros\obj\Debug\netcoreapp2.1\WebAPI_Validador_Numeros.pdb
